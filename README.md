@@ -17,8 +17,10 @@ An AWS Sagemaker-based Image Classification model for **Scones Unlimited**, a sc
 6. **Cleanup Cloud Resources**: Remove any temporary or unnecessary cloud resources.
 
 ---
+## Step Function / State Machine | Confidence Threshold Met
 ![StateMachine Working Threshold Met](screenshots/StateMachineWorkingThresholdMet-1.png)
 
+## Step Function / State Machine | Confidence Threshold Not Met
 ![StateMachine Working Threshold Not Met](screenshots/StateMachineWorkingThresholdNotMet-2.png)
 
 ---
